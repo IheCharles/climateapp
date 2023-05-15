@@ -5,12 +5,12 @@ import { getDatabase,ref,get } from 'https://www.gstatic.com/firebasejs/9.0.0/fi
  function main() {
 
     const firebaseConfig = {
-        apiKey: "AIzaSyDGXUvRUJGVi4WFGxGm3DgJBdDNugz62PE",
+        apiKey: "",
         authDomain: "climateapp-io.firebaseapp.com",
         projectId: "climateapp-io",
         storageBucket: "climateapp-io.appspot.com",
         messagingSenderId: "450823170033",
-        appId: "1:450823170033:web:2c30ffb339c48b1bfc4650",
+        appId: "",
         measurementId: "G-TGDSCV2HNS",
         databaseURL: "https://climateapp-io-default-rtdb.firebaseio.com/"
       };
